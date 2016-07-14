@@ -1,8 +1,7 @@
 {
-  "name": "react-boilerplate",
-  "private": true,
-  "version": "2.5.6",
-  "description": "Boilerplate for [SurviveJS - React](http://survivejs.com/react/introduction/)",
+  "name": "react-kanban",
+  "version": "1.0.1",
+  "description": "Kanban with React",
   "scripts": {
     "stats": "webpack --profile --json > stats.json",
     "start": "webpack-dev-server",
